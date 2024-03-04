@@ -25,6 +25,7 @@
   }
 }
 .section2 .right-section2 {
+  z-index: -1;
 }
 
 .section2 .right-section2 .right-img {
@@ -172,6 +173,7 @@
 /* --------------- */
 
 .section2 .left-section2 {
+  z-index: -1;
 }
 
 .section2 .left-section2 .left-img {
