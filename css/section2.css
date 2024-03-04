@@ -53,6 +53,7 @@
 
 .section2 .icon-right {
   margin-top: 150px;
+  z-index: 999;
 }
 @media only screen and (min-width: 300px) and (max-width: 576px) {
   .section2 .icon-right {
