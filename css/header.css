@@ -174,7 +174,7 @@ header {
 @media only screen and (min-width: 300px) and (max-width: 576px) {
   .img-header {
     margin-bottom: 30px;
-    margin-left: 62px;
+    margin-left: 52px;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 768px) {
@@ -200,7 +200,7 @@ header {
 }
 @media only screen and (min-width: 300px) and (max-width: 576px) {
   .img1 {
-    margin-right: -110px;
+    margin-right: -140px;
     margin-top: 335px;
   }
   .img1 img {
